@@ -1,0 +1,7 @@
+create database poc;
+use poc;
+CREATE TABLE `department` (
+  `departmentId` int NOT NULL,
+  `departmentName` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`departmentId`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
