@@ -1,0 +1,10 @@
+1	CSK	Dhoni
+2	Punjab	Rahul
+1	CSK	Jadeja
+3	RCB	Kolhi
+2	Punjab	Mayank
+3	RCB	Abd
+4	SRH	Warner
+1	CSK	Faf	
+4	SRH	Willamson	
+3	RCB	Maxwel
