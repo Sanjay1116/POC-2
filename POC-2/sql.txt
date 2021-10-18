@@ -1,0 +1,11 @@
+create database IPL;
+
+USE  IPL;
+
+CREATE TABLE `IPLTeams` (
+  `TeamId` int NOT NULL AUTO_INCREMENT,
+  `TeamName` varchar(255) NOT NULL,
+  `PlayerName` varchar(255) NOT NULL,
+  `Score` int,
+  PRIMARY KEY (`TeamId`,`TeamName`,`PlayerName`)
+);
